@@ -43,6 +43,6 @@
         }
     }
 	echo "<h1> O Salário de R$ ".number_format($salario,2,",",".")." tem um INSS de: R$ ".number_format(round($inss,2),2,",",".")."</h1>";
-?>
+ ?>
 </body>
 </html>
